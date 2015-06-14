@@ -1,0 +1,3 @@
+<drawable-list id="background" foreground="Gfx.COLOR_DK_GRAY">
+    <shape type="circle" x="109" y="109" radius="110" />
+</drawable-list>
