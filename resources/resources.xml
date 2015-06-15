@@ -1,4 +1,11 @@
 <resources>
     <string id="AppName">PolarClock</string>
     <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+    <bitmap id="EmptyBattery" filename="images/EmptyBattery.png" />
+    <bitmap id="AlmostEmpty" filename="images/AlmostEmpty.png" />
+    <bitmap id="TwentyFivePercentBattery" filename="images/25PercentBattery.png" />
+    <bitmap id="FiftyPercentBattery" filename="images/50PercentBattery.png" />
+    <bitmap id="SeventyFivePercentBattery" filename="images/75PercentBattery.png" />
+    <bitmap id="AlmostFull" filename="images/AlmostFull.png" />
+    <bitmap id="FullBattery" filename="images/FullBattery.png" />
 </resources>

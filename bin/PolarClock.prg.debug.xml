@@ -1,55 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="12" pc="268435458" symbol="onLayout"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="16" pc="268435498" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="18" pc="268435518" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="19" pc="268435518" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="20" pc="268435531" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="22" pc="268435544" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="23" pc="268435561" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="24" pc="268435571" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="25" pc="268435581" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="26" pc="268435594" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="27" pc="268435625" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="29" pc="268435662" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="30" pc="268435662" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="31" pc="268435679" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="32" pc="268435701" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="33" pc="268435717" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="34" pc="268435742" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="35" pc="268435779" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="36" pc="268435816" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="39" pc="268435853" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="40" pc="268435870" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="41" pc="268435901" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="45" pc="268435977" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="46" pc="268436013" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="47" pc="268436046" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="48" pc="268436082" symbol="onUpdate"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="52" pc="268436118" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="53" pc="268436118" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="54" pc="268436154" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="55" pc="268436169" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="56" pc="268436202" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="57" pc="268436235" symbol="drawTrigonometricalHourArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="62" pc="268436287" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="63" pc="268436287" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="64" pc="268436323" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="65" pc="268436338" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="66" pc="268436371" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="67" pc="268436404" symbol="drawTrigonometricalMinArc"/>
-<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockApp.mc" lineNum="5" pc="268436457" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="5" pc="268436777" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="20" pc="268436501" symbol="draw"/>
-<entry filename="Rez" lineNum="21" pc="268436508" symbol="draw"/>
-<entry filename="Rez" lineNum="22" pc="268436515" symbol="draw"/>
-<entry filename="Rez" lineNum="23" pc="268436528" symbol="draw"/>
-<entry filename="Rez" lineNum="24" pc="268436541" symbol="draw"/>
-<entry filename="Rez" lineNum="28" pc="268436566" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="30" pc="268436602" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="10" pc="268436745" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="44" pc="268436656" symbol="MainLayout"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="20" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="21" pc="268435501" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="22" pc="268435544" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="23" pc="268435587" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="24" pc="268435630" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="25" pc="268435673" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="26" pc="268435716" symbol="initialize"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="30" pc="268435762" symbol="onLayout"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="34" pc="268435802" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="36" pc="268435822" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="37" pc="268435822" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="38" pc="268435835" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="40" pc="268435848" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="41" pc="268435865" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="42" pc="268435875" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="43" pc="268435885" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="44" pc="268435898" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="45" pc="268435929" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="46" pc="268435965" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="48" pc="268436002" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="49" pc="268436002" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="50" pc="268436019" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="51" pc="268436041" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="52" pc="268436057" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="53" pc="268436082" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="54" pc="268436119" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="55" pc="268436155" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="56" pc="268436192" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="57" pc="268436228" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="59" pc="268436265" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="60" pc="268436429" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="61" pc="268436593" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="62" pc="268436692" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="63" pc="268436709" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="64" pc="268436740" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="65" pc="268436750" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="66" pc="268436760" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="67" pc="268436770" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="68" pc="268436780" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="69" pc="268436793" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="70" pc="268436815" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="71" pc="268436872" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="72" pc="268436889" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="75" pc="268436911" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="76" pc="268436942" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="77" pc="268436978" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="78" pc="268437015" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="79" pc="268437040" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="80" pc="268437071" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="81" pc="268437107" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="82" pc="268437144" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="83" pc="268437169" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="84" pc="268437200" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="85" pc="268437236" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="87" pc="268437273" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="88" pc="268437290" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="90" pc="268437300" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="91" pc="268437325" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="93" pc="268437401" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="95" pc="268437477" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="97" pc="268437553" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="99" pc="268437629" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="101" pc="268437705" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="103" pc="268437781" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="105" pc="268437857" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="107" pc="268437919" symbol="onUpdate"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="113" pc="268437973" symbol="drawTrigonometricalMinArc"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="114" pc="268437973" symbol="drawTrigonometricalMinArc"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="115" pc="268437988" symbol="drawTrigonometricalMinArc"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="116" pc="268438021" symbol="drawTrigonometricalMinArc"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockView.mc" lineNum="117" pc="268438054" symbol="drawTrigonometricalMinArc"/>
+<entry filename="/Users/patil/Documents/connectIQWS/PolarClock/source/PolarClockApp.mc" lineNum="5" pc="268438106" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="5" pc="268439023" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="27" pc="268438150" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268438157" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268438164" symbol="draw"/>
+<entry filename="Rez" lineNum="30" pc="268438177" symbol="draw"/>
+<entry filename="Rez" lineNum="31" pc="268438190" symbol="draw"/>
+<entry filename="Rez" lineNum="35" pc="268438215" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268438251" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="39" pc="268438302" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268438353" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="43" pc="268438404" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="45" pc="268438455" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="47" pc="268438506" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="49" pc="268438557" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="51" pc="268438608" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="66" pc="268438665" symbol="draw"/>
+<entry filename="Rez" lineNum="67" pc="268438672" symbol="draw"/>
+<entry filename="Rez" lineNum="68" pc="268438679" symbol="draw"/>
+<entry filename="Rez" lineNum="69" pc="268438692" symbol="draw"/>
+<entry filename="Rez" lineNum="70" pc="268438705" symbol="draw"/>
+<entry filename="Rez" lineNum="74" pc="268438730" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="76" pc="268438766" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="10" pc="268438909" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="11" pc="268438918" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="12" pc="268438927" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="13" pc="268438936" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="14" pc="268438945" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="15" pc="268438954" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="16" pc="268438963" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="17" pc="268438972" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="90" pc="268438820" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
@@ -107,6 +161,7 @@
 <entry id="8388629" module="true" symbol="Toybox_Application"/>
 <entry field="true" id="8389522" symbol="serial"/>
 <entry id="8388944" method="true" symbol="compare"/>
+<entry field="true" id="17" symbol="SeventyFivePercentBattery"/>
 <entry id="8389019" object="true" symbol="SwipeEvent"/>
 <entry field="true" id="8389073" symbol="BEHAVIOR_PREVIOUS_PAGE"/>
 <entry field="true" id="8389155" symbol="FONT_MEDIUM"/>
@@ -141,7 +196,7 @@
 <entry id="8388659" method="true" symbol="testAbs"/>
 <entry field="true" id="8388989" symbol="dutyCycle"/>
 <entry id="8389043" object="true" symbol="ProgressBar"/>
-<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="24" symbol="AppName"/>
 <entry field="true" id="8388927" symbol="SECONDS_PER_YEAR"/>
 <entry id="8389418" object="true" symbol="CommonData"/>
 <entry id="8389114" method="true" symbol="getType"/>
@@ -179,6 +234,7 @@
 <entry id="8389252" method="true" symbol="setPayload"/>
 <entry id="8389108" method="true" symbol="onResponse"/>
 <entry field="true" id="8389506" symbol="age"/>
+<entry field="true" id="16" symbol="FiftyPercentBattery"/>
 <entry field="true" id="8389503" symbol="pedalPowerPercent"/>
 <entry field="true" id="8388963" symbol="altitude"/>
 <entry field="true" id="8389200" symbol="MSG_ID_CHANNEL_PERIOD"/>
@@ -186,7 +242,7 @@
 <entry id="8389190" method="true" symbol="drawText"/>
 <entry id="8389105" symbol="mBitmapData"/>
 <entry id="8389425" object="true" symbol="Device"/>
-<entry id="18" method="true" symbol="drawTrigonometricalMinArc"/>
+<entry id="25" method="true" symbol="drawTrigonometricalMinArc"/>
 <entry field="true" id="8388833" symbol="SPORT_TRANSITION"/>
 <entry id="8388620" module="true" symbol="Toybox_Time"/>
 <entry id="8" object="true" symbol="PolarClockView"/>
@@ -225,6 +281,7 @@
 <entry id="8389234" object="true" symbol="DeviceConfig"/>
 <entry id="8389026" method="true" symbol="requestUpdate"/>
 <entry field="true" id="8388997" symbol="KEY_MENU"/>
+<entry field="true" id="13" symbol="EmptyBattery"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389497" symbol="bodyFatPercentage"/>
 <entry id="8388798" method="true" symbol="toLower"/>
@@ -352,7 +409,6 @@
 <entry id="8389435" object="true" symbol="CalculatedWheelDistance"/>
 <entry field="true" id="8389442" symbol="WEIGHT_SCALE_GENDER_FEMALE"/>
 <entry field="true" id="8388911" symbol="distance"/>
-<entry id="17" method="true" symbol="drawTrigonometricalHourArc"/>
 <entry id="8389391" method="true" symbol="testArray"/>
 <entry field="true" id="8388724" symbol="battery"/>
 <entry id="8388948" method="true" symbol="multiply"/>
@@ -375,6 +431,7 @@
 <entry id="8388773" method="true" symbol="toFloat"/>
 <entry id="8389305" symbol="lat"/>
 <entry id="8389235" object="true" symbol="GenericChannel"/>
+<entry field="true" id="15" symbol="TwentyFivePercentBattery"/>
 <entry field="true" id="8389158" symbol="COLOR_LT_GRAY"/>
 <entry field="true" id="8389240" symbol="messageId"/>
 <entry id="8389241" symbol="dataLow"/>
@@ -489,6 +546,7 @@
 <entry id="8388934" method="true" symbol="momentNative"/>
 <entry field="true" id="8389000" symbol="KEY_DOWN_RIGHT"/>
 <entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="18" symbol="AlmostFull"/>
 <entry id="8389409" module="true" symbol="Toybox_AntPlus"/>
 <entry field="true" id="8388800" symbol="UNKNOWN_ERROR"/>
 <entry id="8388760" object="true" symbol="Float"/>
@@ -689,7 +747,7 @@
 <entry field="true" id="8389531" symbol="antfsSupport"/>
 <entry id="8388691" object="true" symbol="TimerStop"/>
 <entry field="true" id="8388972" symbol="TONE_LOUD_BEEP"/>
-<entry id="13" object="true" symbol="background"/>
+<entry id="21" object="true" symbol="background"/>
 <entry field="true" id="8389140" symbol="GENDER_MALE"/>
 <entry id="8389539" symbol="mInitialText"/>
 <entry field="true" id="8388965" symbol="heading"/>
@@ -754,7 +812,7 @@
 <entry field="true" id="8388812" symbol="INVALID_HTTP_METHOD_IN_REQUEST"/>
 <entry id="8389182" method="true" symbol="drawRoundedRectangle"/>
 <entry field="true" id="8389297" symbol="QUALITY_GOOD"/>
-<entry id="15" method="true" symbol="MainLayout"/>
+<entry id="23" method="true" symbol="MainLayout"/>
 <entry field="true" id="8389472" symbol="rightTorqueEffectiveness"/>
 <entry field="true" id="8389228" symbol="MSG_CODE_EVENT_QUE_OVERFLOW"/>
 <entry field="true" id="8388832" symbol="SPORT_CYCLING"/>
@@ -825,6 +883,7 @@
 <entry id="8388922" method="true" symbol="now"/>
 <entry id="8388780" method="true" symbol="invoke"/>
 <entry field="true" id="8388847" symbol="SPORT_HIKING"/>
+<entry field="true" id="14" symbol="AlmostEmpty"/>
 <entry id="4" module="true" symbol="globals_Rez_Menus"/>
 <entry id="8388670" method="true" symbol="testShiftL"/>
 <entry id="8388658" method="true" symbol="testSubstringAndFind"/>
@@ -839,6 +898,7 @@
 <entry id="8388782" method="true" symbol="size"/>
 <entry id="8388661" method="true" symbol="testBreak"/>
 <entry field="true" id="8388915" symbol="isSleepMode"/>
+<entry field="true" id="19" symbol="FullBattery"/>
 <entry id="8389022" object="true" symbol="InputEvent"/>
 <entry field="true" id="8389452" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_6"/>
 <entry field="true" id="8389451" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_5"/>
@@ -932,6 +992,7 @@
 <entry field="true" id="8389207" symbol="MSG_ID_LIB_CONFIG"/>
 <entry id="8389010" object="true" symbol="KeyEvent"/>
 <entry field="true" id="8388864" symbol="SUB_SPORT_INDOOR_ROWING"/>
+<entry id="20" object="true" symbol="clock_ticks"/>
 <entry field="true" id="8388845" symbol="SPORT_ROWING"/>
 <entry field="true" id="8389030" symbol="CONFIRM_YES"/>
 <entry id="8389545" symbol="mWidth"/>
@@ -948,7 +1009,7 @@
 <entry field="true" id="8389038" symbol="NUMBER_PICKER_HEIGHT"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="8389504" symbol="crankCadence"/>
-<entry id="14" method="true" symbol="drawComplex"/>
+<entry id="22" method="true" symbol="drawComplex"/>
 <entry field="true" id="8389291" symbol="GEO_DMS"/>
 <entry field="true" id="8388955" symbol="SENSOR_TEMPERATURE"/>
 <entry field="true" id="8388894" symbol="E"/>
@@ -1000,20 +1061,17 @@
 <localVars/>
 <annotations/>
 <functions>
+<functionEntry name="initialize">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
 <functionEntry name="onLayout">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="onUpdate">
 <param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="drawTrigonometricalHourArc">
-<param id="dc"/>
-<param id="hour"/>
-<param id="radius"/>
-<param id="centerX"/>
-<param id="centerY"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="drawTrigonometricalMinArc">
@@ -1025,6 +1083,21 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="getInitialView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize">
